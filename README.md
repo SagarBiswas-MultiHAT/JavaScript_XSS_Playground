@@ -1,25 +1,29 @@
 # JavaScript XSS Playground
 
 This project demonstrates what XSS (Cross-site Scripting) is and how to prevent it using input sanitization. It is designed for educational purposes to help developers understand the risks of XSS attacks and the importance of secure coding practices.
-<br>
-<br>
+<br></br>
+<br></br>
 
 **- testing the 1st tested payload**
 
 ![testing the 1st tested payload](https://imgur.com/TqDvpzu.png)
-<br>
+<br></br>
+
 **- entering payloads in SECURED mode**
 
 ![entering payloads in SECURED mode](https://imgur.com/QNSfU2r.png)
-<br>
+<br></br>
+
 **- after running server.js; enter the tested payload 4 and 5 into the text field**
 
 ![after running server.js; enter the tested payload 4 and 5 into the text field](https://imgur.com/UMWvQz3.png)
-<br>
+<br></br>
+
 **- after entering see the stolen data from server.js console**
 
 ![after entering see the stolen data from server.js console](https://imgur.com/E4OOnXG.png)
-<br>
+<br></br>
+<br></br>
 
 ## Features
 
