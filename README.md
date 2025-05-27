@@ -2,6 +2,24 @@
 
 This project demonstrates what XSS (Cross-site Scripting) is and how to prevent it using input sanitization. It is designed for educational purposes to help developers understand the risks of XSS attacks and the importance of secure coding practices.
 
+![testing the 1st tested payload](https://imgur.com/TqDvpzu.png)
+
+![entering payloads in SECURED mode](https://imgur.com/QNSfU2r.png)
+
+![after running server.js; enter the tested payload 4 and 5 into the text field](https://imgur.com/UMWvQz3.png)
+
+![after entering see the stolen data from server.js console](https://imgur.com/E4OOnXG.png)
+
+
+
+![]()
+
+![]()
+
+![]()
+
+![]()
+
 ## Features
 
 - **Vulnerable Mode**: Simulates a working XSS vulnerability to demonstrate how attacks occur.
