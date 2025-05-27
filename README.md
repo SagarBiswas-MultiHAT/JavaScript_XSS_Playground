@@ -7,19 +7,18 @@ This project demonstrates what XSS (Cross-site Scripting) is and how to prevent 
 **- testing the 1st tested payload**
 
 ![testing the 1st tested payload](https://imgur.com/TqDvpzu.png)
-
+<br>
 **- entering payloads in SECURED mode**
 
 ![entering payloads in SECURED mode](https://imgur.com/QNSfU2r.png)
-
+<br>
 **- after running server.js; enter the tested payload 4 and 5 into the text field**
 
 ![after running server.js; enter the tested payload 4 and 5 into the text field](https://imgur.com/UMWvQz3.png)
-
+<br>
 **- after entering see the stolen data from server.js console**
 
 ![after entering see the stolen data from server.js console](https://imgur.com/E4OOnXG.png)
-
 <br>
 
 ## Features
