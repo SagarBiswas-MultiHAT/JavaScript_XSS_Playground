@@ -1,7 +1,7 @@
 # JavaScript XSS Playground
 
 This project demonstrates what XSS (Cross-site Scripting) is and how to prevent it using input sanitization. It is designed for educational purposes to help developers understand the risks of XSS attacks and the importance of secure coding practices.
-
+<br>
 
 
 **- testing the 1st tested payload**
