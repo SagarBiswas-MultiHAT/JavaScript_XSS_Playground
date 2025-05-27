@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript XSS Playground</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h1>JavaScript XSS Playground</h1>
+    <p>Toggle between "Vulnerable" and "Secured" modes to understand XSS attacks and prevention.</p>
+
+    <label for="modeToggle">Mode:</label>
+    <select id="modeToggle">
+        <option value="vulnerable">Vulnerable</option>
+        <option value="secured">Secured</option>
+    </select>
+
+    <form id="xssForm">
+        <label for="userInput">Enter some text:</label>
+        <input type="text" id="userInput" name="userInput">
+        <button type="submit">Submit</button>
+    </form>
+
+    <div id="output"></div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
