@@ -1,4 +1,4 @@
-Here are some **real-world XSS attack examples** that can be used for educational purposes in your project. These examples demonstrate how attackers exploit vulnerabilities to execute malicious scripts.
+Here are some **real-world XSS attack examples** that can be used for educational purposes in the project. These examples demonstrate how attackers exploit vulnerabilities to execute malicious scripts.
 
 Tested: 
 A) <img src="x" onerror="alert('XSS Attack!')">
